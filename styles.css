@@ -1,0 +1,95 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  background-color: #f4f4f9;
+  color: #333;
+  margin: 0;
+  padding: 0;
+}
+
+/* Header */
+header {
+  background-color: #4CAF50;
+  padding: 10px 0;
+  text-align: center;
+}
+
+header nav ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+header nav ul li {
+  display: inline;
+  margin: 0 20px;
+}
+
+header nav ul li a {
+  color: white;
+  text-decoration: none;
+  font-size: 18px;
+}
+
+header nav ul li a:hover {
+  color: #FFD700;
+  text-decoration: underline;
+  
+}
+
+/* Home Section */
+#home {
+  background-color: #e3f2fd;
+  text-align: center;
+  padding: 40px;
+}
+
+#home h1 {
+  font-size: 3rem;
+  color: #2e7d32;
+}
+
+/* About Section */
+#about {
+  background-color: #ffffff;
+  padding: 40px;
+  text-align: center;
+}
+
+#about h2 {
+  font-size: 2.5rem;
+  color: #0288d1;
+}
+
+button:hover {
+  background-color: #4CAF50;
+  color: white;
+}
+
+/* GitHub Section */
+#github {
+  background-color: #e1f5fe;
+  padding: 40px;
+  text-align: center;
+}
+
+#github h2 {
+  font-size: 2.5rem;
+  color: #0288d1;
+}
+
+#github a {
+  color: #0d47a1;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+#github a:hover {
+  color: #0288d1;
+}
+
+/* Footer */
+footer {
+  text-align: center;
+  padding: 20px;
+  background-color: #424242;
+  color: white;
+}
