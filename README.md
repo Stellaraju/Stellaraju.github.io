@@ -25,18 +25,22 @@ Form validation in ASP.NET MVC and creating dynamic views for the user interface
 
 # Project 2: Entity Framework Code-First Student Database
 **Description**: A basic console application using Entity Framework (EF) Code-First to create a database and insert a student record.
+
 **Technologies Used**:
 C# (Console Application)
 Entity Framework (Code-First Approach)
 SQL Server (LocalDB)
+
 **Features**:
 Code-First development approach with DbContext and DbSet to map models to database tables.
 Insert and display data for a Student entity in a database.
 Migrations to manage database schema changes.
+
 **Key Learnings**:
 Understanding Entity Framework Code-First and how to create databases from C# code.
 Working with migrations to manage database changes over time.
 Creating and interacting with databases through DbContext and DbSet.
+
 # Technical Skills Gained:
 **C# Programming**:
 
@@ -56,8 +60,6 @@ Managing databases using DbContext and applying migrations for database schema u
 
 Basic web development skills for building user interfaces.
 Form validation and working with JavaScript to enhance user experience.
-
-
 
 # Live Demo
 
