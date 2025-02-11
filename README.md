@@ -5,20 +5,24 @@ This is my personal portfolio website, where I showcase the projects I have work
 # C# Projects and Technical Skills
 # Project 1: ASP.NET MVC Insurance Quote Application
 **Description**:  A web application built using ASP.NET MVC, allowing users to input their information and receive an insurance quote based on various factors.
+
 **Technologies Used**:
 ASP.NET MVC
 Entity Framework
 C# (Object-Oriented Programming)
 SQL Server (LocalDB)
 HTML, CSS, JavaScript (for front-end functionality)
+
 **Features**:
 User input form for personal details, car details, and insurance options.
 Quote calculation based on user input, such as age, car make/model, and driving history.
 Admin view for administrators to view all quotes issued by the application.
+
 **Key Learnings**:
 Understanding of the Model-View-Controller (MVC) architecture.
 Working with Entity Framework for database interactions.
 Form validation in ASP.NET MVC and creating dynamic views for the user interface.
+
 # Project 2: Entity Framework Code-First Student Database
 **Description**: A basic console application using Entity Framework (EF) Code-First to create a database and insert a student record.
 **Technologies Used**:
